@@ -4,10 +4,8 @@ This E-Commerce Website for Electronic Devices is a modern full-stack web applic
 
 This application serves as a reference implementation for building scalable e-commerce solutions with a modern technology stack.
 
-
-
-<img width="1906" height="1041" alt="image" src="https://github.com/user-attachments/assets/359a1697-4425-4173-9ef1-5cd71b0ef9c7" />
-<img width="1919" height="1102" alt="image" src="https://github.com/user-attachments/assets/3433cf17-4f70-48fe-92b1-65b38e959f70" />
+<img width="1920" height="1020" alt="E-Commerce Platform - Google Chrome 21-04-2026 11_25_48" src="https://github.com/user-attachments/assets/e1273100-c054-4629-84be-c7a5de0a33be" />
+<img width="1920" height="1020" alt="E-Commerce Platform - Google Chrome 21-04-2026 11_26_40" src="https://github.com/user-attachments/assets/739ba66b-7569-476b-a470-5d0572162215" />
 
 ## Live Deployment
 
@@ -45,7 +43,7 @@ e-commerce website for electronic devices/
 └── package.json      # Dependencies
 ```
 
-## Getting Started
+### Getting Started
 
 ### Prerequisites
 
